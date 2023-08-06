@@ -369,11 +369,12 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
+        
         background-image: url(images/phone-background.png);
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 16px;
+        margin-top: 110%;
+        font-size: 25px;
     }
     .header-text h1{
         font-size: 30px;
